@@ -36,7 +36,7 @@ st.markdown("## Movies Search and Recommendation 🔍 🎬 🍿 ")
 
 # model_name: str = 'multilingual-2210-alpha'
 model_name: str = 'multilingual-22-12'
-COHERE_API_KEY = os.environ.get("COHERE_API_KEY")
+COHERE_API_KEY = os.environ.get("PsrBkxkKzdiwuO8em5Q5paBB9atJf2i3xBkFV6EQ")
 co = cohere.Client(COHERE_API_KEY)
 
 
